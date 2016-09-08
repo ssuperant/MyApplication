@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#ff0000"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+          />
+
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#00ff77"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+           />
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#fbff00"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#ff00d9"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#00ffb7"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#00ff0d"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#aa00ff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#aaff00"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+        <TextView
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textColor="#3c00ff"
+            android:background="#ff6f00"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>
